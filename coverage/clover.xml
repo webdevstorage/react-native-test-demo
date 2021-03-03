@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1614797016942" clover="3.2.0">
+  <project timestamp="1614797016942" name="All files">
+    <metrics statements="24" coveredstatements="24" conditionals="22" coveredconditionals="14" methods="15" coveredmethods="13" elements="61" coveredelements="51" complexity="0" loc="24" ncloc="24" packages="1" files="2" classes="2"/>
+    <file name="Button.js" path="C:\Users\M4800\Documents\GitHub\react-native-test-demo\src\components\Button.js">
+      <metrics statements="17" coveredstatements="17" conditionals="12" coveredconditionals="8" methods="8" coveredmethods="7"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="3" type="cond" truecount="6" falsecount="4"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="3" type="stmt"/>
+      <line num="19" count="3" type="stmt"/>
+      <line num="20" count="3" type="stmt"/>
+      <line num="23" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="25" count="3" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="35" count="1" type="stmt"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="59" count="1" type="stmt"/>
+    </file>
+    <file name="Intro.js" path="C:\Users\M4800\Documents\GitHub\react-native-test-demo\src\components\Intro.js">
+      <metrics statements="7" coveredstatements="7" conditionals="10" coveredconditionals="6" methods="7" coveredmethods="6"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="cond" truecount="6" falsecount="4"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

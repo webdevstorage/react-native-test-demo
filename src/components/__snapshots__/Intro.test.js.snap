@@ -20,7 +20,7 @@ exports[`renders correctly 1`] = `
       }
     }
   >
-    Welcome to React Native!
+    Welcome!
   </Text>
   <Text
     style={
@@ -31,7 +31,7 @@ exports[`renders correctly 1`] = `
       }
     }
   >
-    This is a React Native snapshot test.
+    This is snapshot test.
   </Text>
 </View>
 `;
